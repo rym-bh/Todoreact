@@ -1,0 +1,23 @@
+.header{
+    background-color: darkcyan;
+    width: 600px;
+    height: 200px;
+    justify-content: center;
+    padding-left: 30px;
+}
+input{
+    height: 50px;
+    width: 400px;
+    
+}
+button{
+    height: 30px;
+    width:100px;
+    margin-left: 40px;
+    border-radius: 10px;
+    background-color: darksalmon;
+}
+li{
+    list-style: none;
+    
+}
